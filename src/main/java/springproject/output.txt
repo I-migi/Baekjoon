@@ -1,0 +1,8 @@
+> Task :compileJava
+> Task :processResources NO-SOURCE
+> Task :classes
+
+> Task :Baekjoon.plusRange11659.main()
+12
+9
+1
